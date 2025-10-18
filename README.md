@@ -10,7 +10,7 @@ The Select control for [React](https://reactjs.org). Initially built for use in 
 See [react-select.com](https://www.react-select.com) for live demos and comprehensive docs.
 
 `react-select` is funded by [Thinkmill](https://www.thinkmill.com.au) and [Atlassian](https://atlaskit.atlassian.com).
-We are an open source project that is continously supported by the community.
+We are an open source project that is continuously supported by the community.
 
 React Select helps you develop powerful select components that _just work_ out of the box, without stopping you from customising the parts that are important to you.
 
@@ -127,7 +127,7 @@ Thank you to everyone who has contributed to this project. It's been a wild ride
 
 If you like React Select, you should [follow me on Twitter](https://twitter.com/jedwatson)!
 
-Shout out to [Joss Mackison](https://github.com/jossmac), [Charles Lee](https://github.com/gwyneplaine), [Ben Conolly](https://github.com/Noviny), [Tom Walker](https://github.com/bladey), [Nathan Bierema](https://github.com/Methuselah96), [Eric Bonow](https://github.com/ebonow), [Mitchell Hamilton](https://github.com/mitchellhamilton), [Dave Brotherstone](https://github.com/bruderstein), [Brian Vaughn](https://github.com/bvaughn), and the [Atlassian Design System](https://atlassian.design) team who along with many other contributors have made this possible ❤️
+Shout out to [Joss Mackison](https://github.com/jossmac), [Charles Lee](https://github.com/gwyneplaine), [Ben Conolly](https://github.com/Noviny), [Tom Walker](https://github.com/bladey), [Nathan Bierema](https://github.com/Methuselah96), [Eric Bonow](https://github.com/ebonow), [Emma Hamilton](https://github.com/emmatown), [Dave Brotherstone](https://github.com/bruderstein), [Brian Vaughn](https://github.com/bvaughn), and the [Atlassian Design System](https://atlassian.design) team who along with many other contributors have made this possible ❤️
 
 ## License
 

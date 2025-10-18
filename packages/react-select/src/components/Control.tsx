@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { ReactNode, Ref } from 'react';
+import { JSX, ReactNode, Ref } from 'react';
 import { jsx } from '@emotion/react';
 
 import {
@@ -87,6 +87,7 @@ const Control = <
         'control--menu-is-open': menuIsOpen,
       })}
       {...innerProps}
+      aria-disabled={isDisabled || undefined}
     >
       {children}
     </div>
